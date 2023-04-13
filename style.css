@@ -1,0 +1,86 @@
+body{
+    margin:0px;
+    text-align: center;
+    
+}
+.name{
+    margin-top:0px;
+    font-family: 'Montserrat', sans-serif;         
+
+   width:20%;
+   margin:0 auto;
+   
+   
+  
+   
+}
+.designation{
+    width:20%;
+    margin:0 auto;
+    font-family: 'Lora', serif;
+    
+}
+.cloud1{
+    position:absolute;
+    right:300px;
+    top:50px;
+    
+    
+}
+.mountain{
+    position: relative;
+}
+
+.cloud2{
+    position:absolute;
+    left:300px;
+    bottom:300px;
+    
+    
+}
+
+.topcontainer{
+    background-color:#d1e4df;
+    position:relative;
+    padding-top: 150px;
+}
+.profile{
+    background-color:rgb(219, 232, 244);
+    
+}
+.profileimg{
+
+   width:90px;
+    height:90px;
+}
+.skillimg{
+    width:120px;
+    height:120px;
+}
+.computer{
+    width:120px;
+    height:120px;
+}
+.logo{
+width:70px;
+height:70px;
+position:absolute;
+left:60px;
+top:50px;
+
+}
+.about{
+    position:relative;
+    left:200px;
+    text-decoration: none;
+}
+.work{
+    position:relative;
+    left:250px;
+    text-decoration: none;
+}
+.note{
+    position:relative;
+    left:300px;
+    text-decoration: none;
+}
